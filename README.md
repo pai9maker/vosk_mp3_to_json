@@ -78,7 +78,7 @@
 
    ```bash
    git clone  https://github.com/pai9maker/vosk_mp3_to_json.git
-   cd <имя_папки_репозитория>
+   cd vosk_mp3_to_json
    ```
 
 2. **Запуск Docker**:
